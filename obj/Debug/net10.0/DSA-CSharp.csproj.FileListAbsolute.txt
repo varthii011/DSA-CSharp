@@ -12,3 +12,4 @@ D:\DSA-CSharp\obj\Debug\net10.0\refint\DSA-CSharp.dll
 D:\DSA-CSharp\obj\Debug\net10.0\DSA-CSharp.pdb
 D:\DSA-CSharp\obj\Debug\net10.0\DSA-CSharp.genruntimeconfig.cache
 D:\DSA-CSharp\obj\Debug\net10.0\ref\DSA-CSharp.dll
+D:\DSA-CSharp\obj\Debug\net10.0\DSA-CSharp.sourcelink.json
