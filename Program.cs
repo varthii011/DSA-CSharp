@@ -5,6 +5,10 @@ class Program
 {
     public static void Main()
     {
-        TwoSum.SumOfTwoNumbers();
+        // TwoSum.SumOfTwoNumbers();
+
+        EvenNumbers.Run();
+
+        OddNumbers.Run();
     }
 }
